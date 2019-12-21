@@ -1,5 +1,5 @@
 {
-    "id": "75399631a0558eec7b934aca3758cd60",
+    "id": "f00cfbcd28d6344b97881c978896f579",
     "name": "Swagger API2Cart",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "69f038e461b2ea70e4487a63c4fd9c85",
+            "id": "22dc6e5aa4b0b2386d56f199e4836524",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/webhook.create.json",
             "description": "Create webhook on the store and subscribe to it.",
@@ -79,11 +79,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "354ef15ddab1d098d37dc23bb3c9977b",
+            "id": "7cd881791d324a53f300163050bb764b",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/webhook.list.json",
             "description": "List registered webhook on the store.",
@@ -152,11 +152,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "972f46260a332eb99c2cac06af786e8d",
+            "id": "36542bacba1e8ef635e639a49ca12a47",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/webhook.count.json",
             "description": "Count registered webhooks on the store.",
@@ -197,11 +197,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "985bb621fe3af49c433f7e38839acaa5",
+            "id": "ef8d1cf9bbc141407165785350db79da",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/webhook.events.json",
             "description": "List all Webhooks that are available on this store.",
@@ -220,11 +220,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "a88250ea88e51d9488c1ab35435d787e",
+            "id": "b14bc28ec82e349570510ebb148bb4e6",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/webhook.delete.json",
             "description": "Delete registered webhook on the store.",
@@ -251,11 +251,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "75e38b75fd77ca7a78a73242ad48757e",
+            "id": "3e96101fc5583594f34ffadc5ae07986",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/webhook.update.json",
             "description": "Update Webhooks parameters.",
@@ -310,11 +310,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "8a74bc616181773e48d27a288510cb91",
+            "id": "f04925d3e2b89dc179628aecb329e401",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.create.json",
             "description": "Add store to the account",
@@ -747,11 +747,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "b61704e676d50be32e49c692b7e3b22f",
+            "id": "6487efea3fcbe3e6e8e5a07d0c314976",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.validate.json",
             "description": "Check store availability, bridge connection for the downloadable carts, identify DB prefix, validate API accesses for API carts.",
@@ -778,11 +778,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "bfecc77a2f5d60539056e147b04f9e95",
+            "id": "de6039d31b146fd29d3aa3c28b4f6fc5",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.list.json",
             "description": "Get list of supported carts",
@@ -801,11 +801,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "a37996581f841959064a2b457ed48c0c",
+            "id": "27c42c898bd014935c242bb808218b18",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.bridge.json",
             "description": "Get bridge key and store key",
@@ -824,11 +824,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "4c9f7db10f355f6db673305fa1615351",
+            "id": "04a411e98c9593e028174c82217d2d56",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.delete.json",
             "description": "Remove store from API2Cart",
@@ -847,11 +847,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "b8f98cd0bf385d0067dba85c0c4783af",
+            "id": "2668494b18fb6163c53438bc992e1f58",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.disconnect.json",
             "description": "Disconnect with the store and clear store session data.",
@@ -878,11 +878,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "511d445fd8b635f5842bc523cea83c86",
+            "id": "581f22be80d4a8ea579d7fb4b36a7677",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.methods.json",
             "description": "Get list of cart methods",
@@ -901,11 +901,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "cc660e943002158c452de8dc077e0cb7",
+            "id": "ca6920254e86fb34b322c42550c64f39",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.config.json",
             "description": "Get list of cart configs",
@@ -939,11 +939,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "9d3f8b6f7d4984d3a940f250ce945e2b",
+            "id": "790bd51e253d7196039a98a8291f1da9",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.config.update.json",
             "description": "Use this API method to update custom data in client database.",
@@ -962,11 +962,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "4d2927775d8de21dabb6a750ab8e2fda",
+            "id": "411e6750cb8d0e6dbbc089cd52323b81",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.coupon.count.json",
             "description": "Get cart coupons count.",
@@ -1028,11 +1028,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "14a179b2edac1db9764c038a096de084",
+            "id": "77d42ff8b0d61b0362a9b255b6c6f45a",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.coupon.list.json",
             "description": "Get cart coupon discounts.",
@@ -1136,11 +1136,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "5799b991743cf75bd964a9e7835734d3",
+            "id": "04d93c6a5875127ee7d97a2b7d1327a6",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.giftcard.count.json",
             "description": "Get gift cards count.",
@@ -1167,11 +1167,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "1d76f175f5e1764ba6b18fb0a18425a3",
+            "id": "23029d8667b984722e3692d082e7b591",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.giftcard.list.json",
             "description": "Get gift cards list.",
@@ -1226,11 +1226,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "c44725301ead0c5f99fd4280787a8c12",
+            "id": "b44c95d1b138ead2a029136a7bcbef66",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.giftcard.add.json",
             "description": "Create new gift card",
@@ -1271,11 +1271,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "86959260674cfadbc23fd529da230203",
+            "id": "d7846896d3f457ad31f6b718ccbbc965",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.coupon.add.json",
             "description": "Create new coupon",
@@ -1407,11 +1407,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "aada09e4bd144994c713bbf34245aa9d",
+            "id": "f194245111ef034d097637c0bdf90cf3",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.coupon.condition.add.json",
             "description": "Create new coupon condition",
@@ -1480,11 +1480,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "92729e2759ce6cdaee0f3c772351d6c0",
+            "id": "6af4834842bc5e88e1cce4c5662c1400",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.coupon.delete.json",
             "description": "Delete coupon",
@@ -1518,11 +1518,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "47362ab76e5a0037ac1afb6f87f38dcd",
+            "id": "05fd439c72cb4443d4880c627f8e3dd3",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.script.list.json",
             "description": "Get scripts installed to the storefront",
@@ -1605,11 +1605,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "0ca91d32bbfd43772fdee6c753a07687",
+            "id": "69b4aef4eebda9ceb62ab334aab6e0bf",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.script.add.json",
             "description": "Add new script to the storefront",
@@ -1671,11 +1671,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "962846a4c60bce4f7b499fbd38a88055",
+            "id": "da73f86b3864d9569a5c4993e4462580",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.script.delete.json",
             "description": "Remove script from the storefront",
@@ -1702,11 +1702,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "296584854c653ffa3804858aa03df9a6",
+            "id": "df726bcf60a2dda2a6820cd7dcb0238b",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.info.json",
             "description": "Get cart information",
@@ -1747,11 +1747,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "ffcb017d544e023c1d05bad9d6ae670a",
+            "id": "284f4589050be0a2db5591da68ddc8fc",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.clear_cache.json",
             "description": "Clear cache on store.",
@@ -1778,11 +1778,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "99cca3cf1032aa155051f1256199dd7c",
+            "id": "79462cd380389042226e959fe98528a7",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.plugin.list.json",
             "description": "Get list of installed plugins",
@@ -1830,11 +1830,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "beb9ff68c2b8e17666a1f739938e69ce",
+            "id": "d51937e72e58354b6a2e7e9417f8326f",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/cart.shipping_zones.list.json",
             "description": "Get list of shipping zones",
@@ -1861,11 +1861,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "92ee6282951a1918fdc2c9f0bc0293b2",
+            "id": "45b562c46d40a2e19bc7a89eec97bee2",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/account.cart.list.json",
             "description": "Get list of carts.",
@@ -1927,11 +1927,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "2b4a5cafe449adb63dee3724826500a4",
+            "id": "5264522148f8e116877c48b97bbceac9",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/account.cart.add.json",
             "description": "Add store to the account",
@@ -2350,11 +2350,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "a4dcdcbe5f02ce6cc052dc014ddac4c2",
+            "id": "aa69c1fc6079cf95e828a65088338253",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/account.config.update.json",
             "description": "Update configs in the API2Cart database.",
@@ -2710,11 +2710,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "750fc16e4401ba9f1432a6400f8499d0",
+            "id": "833320e537eb1fc2f5515c3f0e0bf1ba",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/account.failed_webhooks.json",
             "description": "List webhooks that was not delivered to the callback.",
@@ -2755,11 +2755,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "05ba27d0ecb2ebf7b1286b90faccc135",
+            "id": "c6208d6cbdbcda1f079e0a264289823b",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/account.supported_platforms.json",
             "description": "Get list of supported platforms",
@@ -2778,11 +2778,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "b8f26728e902be76031b866547f6abd6",
+            "id": "2aa5a3d2109034be823b56d0404b36ca",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/bridge.download.file",
             "description": "Download bridge for store",
@@ -2809,11 +2809,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "bbbfb842fdf0fc4615f0e5432d50cc0f",
+            "id": "61c894bba54ff86f3dd41f95d5809b17",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/bridge.update.json",
             "description": "Update bridge in the store.",
@@ -2832,11 +2832,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "70c249c9289927dc98ed258f3612ea5d",
+            "id": "3d543c34721c3d41fef4857591445528",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/bridge.delete.json",
             "description": "Delete bridge from the store.",
@@ -2855,11 +2855,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "8c530597dfc1654458d3226b7faa857f",
+            "id": "318bbea25ae2341d19153258dd1b00ba",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.list.json",
             "description": "Get list of products from your store. Returns 10 products by default.",
@@ -3040,11 +3040,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "27dc9ca3685ac0bdf5eef5454bc5c786",
+            "id": "97295f959f718fc488532e17f353dd33",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.count.json",
             "description": "Count products in store.",
@@ -3148,11 +3148,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "8ae7da740f8ff40caffd3481b2cf20ea",
+            "id": "c131f09dd5cbca598142079fcc6310fb",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.info.json",
             "description": "Get product info about product ID *** or specify other product ID.",
@@ -3235,11 +3235,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "b72977e31d8700fefc2a6a42dbf3709f",
+            "id": "48f397da95e3805363427b630ca92edf",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.find.json",
             "description": "Search product in store catalog. \"Apple\" is specified here by default.",
@@ -3287,11 +3287,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "011f98f7b9aa41edb11804943054453f",
+            "id": "20a548a0c3a989b8e93231fce5d9bf78",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.fields.json",
             "description": "Retrieve all available fields for product item in store.",
@@ -3310,11 +3310,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "371600bf1b8cfb0b697a8d674ece309e",
+            "id": "79cd0d8ae6f27323dae73a0a5a2c811d",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.add.json",
             "description": "Add new product to store.",
@@ -3333,11 +3333,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "985271c83baa264910d5f3573ceee33d",
+            "id": "200190310548fc4affc199f18a60595c",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.update.json",
             "description": "Update price and quantity for a specific product",
@@ -3581,11 +3581,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "bc951efb12a5a0f1d07b4c289fcf8178",
+            "id": "796c0b104fd588040993ef0a280cd6ef",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.delete.json",
             "description": "Product delete",
@@ -3612,11 +3612,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "9b7d9a829bee52966d6692221b5e18ca",
+            "id": "1c1a185efe5801ca68a97da93ce1b692",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.price.add.json",
             "description": "Add some prices to the product.",
@@ -3635,11 +3635,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "21d65325cf87ea928ef965bf48ace8d8",
+            "id": "344776c81b872f21344a68b63f987699",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.price.update.json",
             "description": "Update some prices of the product.",
@@ -3658,11 +3658,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "c281edc70560fbe0a509d6777318d9a5",
+            "id": "6c80e9cba9300e1e8cb50088ed0ecceb",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.price.delete.json",
             "description": "Delete some prices of the product",
@@ -3696,11 +3696,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "2aa8a06183a66641d105b6065125eb77",
+            "id": "7ae796d07c74885943d8919fe291aa28",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.image.add.json",
             "description": "Add image to product",
@@ -3797,11 +3797,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "04cf18233bbcea26c6e7c671915b1f4e",
+            "id": "1fc67644b2d09da1f5cf9a1695e0b875",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.image.update.json",
             "description": "Update details of image",
@@ -3877,11 +3877,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "c90b30060978a9b3d8092f9be53aeda0",
+            "id": "b6d23e91ac4e5ea5efbdf39184f95211",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.image.delete.json",
             "description": "Delete image",
@@ -3922,11 +3922,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "457e6cd530eba0282abf6d50d6b971ad",
+            "id": "e258c0babbeb2c57e929ead4975c4489",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.list.json",
             "description": "Get list of categories from store. Returns 4 categories by default.",
@@ -3995,11 +3995,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "1adbfd75fc210c51d5ccfd280f44d0bf",
+            "id": "2b753090ed19ea7b5b61134f63f8bcbc",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.count.json",
             "description": "Count categories in store.",
@@ -4040,11 +4040,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "e37dd906fedeeab016b08b429a1823e6",
+            "id": "7d34a40300ec75f2bedbb9ed388921c2",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.info.json",
             "description": "Get category info about category ID*** or specify other category ID.",
@@ -4099,11 +4099,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "ea3370a409a033f48c359c261cea11dc",
+            "id": "e01d243f8ba522936fe676ee76fdbcf8",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.find.json",
             "description": "Search category in store. \"Laptop\" is specified here by default.",
@@ -4144,11 +4144,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "fbecccab2d4aa19075c3ad413780d7c0",
+            "id": "67a7df19a8adfe76473db3df04b61587",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.add.json",
             "description": "Add new category in store",
@@ -4259,11 +4259,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "e94708816a107a9d7d365784558bf55f",
+            "id": "04d11a19d0c90f8225bdbb06dfc53d19",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.update.json",
             "description": "Update category in store",
@@ -4367,11 +4367,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "360beff413e58827cd6cd3252f712143",
+            "id": "d87b0613a518bec33d340c01981ff7ac",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.delete.json",
             "description": "Delete category in store",
@@ -4398,11 +4398,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "0819aa5eaa79d44388b4366ab138224f",
+            "id": "b571bc1246670e2c55246c94add44875",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.assign.json",
             "description": "Assign category to product",
@@ -4436,11 +4436,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "c03d60ff12eaecb5ed131c975065b4b6",
+            "id": "108bcee471ab429e5e4c053caac797c7",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.unassign.json",
             "description": "Unassign category to product",
@@ -4474,11 +4474,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "136b2fc986fa59e3205cb53eeb41506d",
+            "id": "6fd762d197e65301d28cdb5ad09d69cb",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.image.add.json",
             "description": "Add image to category",
@@ -4554,11 +4554,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "39ed8f3ed843f15d33d99b98c98a56ef",
+            "id": "74f57a18e7a82eb96537223576a37cd6",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/category.image.delete.json",
             "description": "Delete image",
@@ -4599,11 +4599,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "3f5b5f08416c76b7e09cc9d1d9304c0f",
+            "id": "a37ae8321d7b025dee69edc740f30885",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.count.json",
             "description": "Count orders in store",
@@ -4714,11 +4714,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "99e501f9d6cdd9d668539c9a1f4e5129",
+            "id": "d28618db2f4f8dc16f2fa6e35c1ee25c",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.list.json",
             "description": "Get list of orders from store. Returns 4 orders by default.",
@@ -4885,11 +4885,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "455932f829dfa1850e806f956a12954c",
+            "id": "df271797d3bad7dccf06beb8544f4cf6",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.info.json",
             "description": "Info about a specific order by ID",
@@ -4937,11 +4937,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "8f7943bd1c0ea65247e1978d395fe037",
+            "id": "6bad02e88590871fda74eb099e988ddb",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.find.json",
             "description": "Find orders",
@@ -5045,11 +5045,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "1d8be8854439e53844547f26014c4f3c",
+            "id": "277dc3afc1bdd9a24bec9aac6e83e006",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.add.json",
             "description": "Add a new order to the cart.",
@@ -5068,11 +5068,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "24276242ec3557cde7ee9e8bba10f391",
+            "id": "eb4443907c4c354d7670e910506f104d",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.update.json",
             "description": "Update existing order.",
@@ -5155,11 +5155,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "2f55a481af4d9ad6a93efd393a2f2a45",
+            "id": "8fe218be8224a7c785eacda4678830db",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.status.list.json",
             "description": "Retrieve list of statuses",
@@ -5178,11 +5178,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "35de05e30a2be98e3b0e04c7593feb2a",
+            "id": "86620d2a3babda8889fd235bf8cced07",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.financial_status.list.json",
             "description": "Retrieve list of financial statuses",
@@ -5201,11 +5201,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "402b94be6e6b23c1aa970ba234eb87d2",
+            "id": "ee80fc3c1528a501ac00f90d5f0f3c97",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.abandoned.list.json",
             "description": "Get list of orders that were left by customers before completing the order.",
@@ -5309,11 +5309,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "ed1eb0fd90742d812fa259f9f76874be",
+            "id": "4a697c5a71402520a519210bd15b1188",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.shipment.list.json",
             "description": "Get list of shipments by orders.",
@@ -5389,11 +5389,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "16d5e6e43e8229d06a81ee8d0c8c9a1b",
+            "id": "a873fad3ee2eb3510e7ed44dc6eb23ca",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.shipment.add.json",
             "description": "Add a shipment to the order.",
@@ -5412,11 +5412,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "62e53a08a1acbb6998f2329e6bc38c84",
+            "id": "86477b65ccf7346904eb9dccf74fa1c7",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.shipment.update.json",
             "description": "Update order's shipment information.",
@@ -5435,11 +5435,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "100fe04fdb719832f55c5b08b151e36c",
+            "id": "c3378ca209614d6795c11f2ebb4bcef3",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.shipment.tracking.add.json",
             "description": "Add order shipment's tracking info.",
@@ -5458,11 +5458,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "06ef454c1171020a404ae1dd3815958e",
+            "id": "f760c565ebf88ce202cf617da9a9abba",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/order.refund.add.json",
             "description": "Add a refund to the order.",
@@ -5481,11 +5481,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "2da12514d02191c987b1da9179edd0f9",
+            "id": "4be798992a16b14cbc1e02da97520cea",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/basket.live_shipping_service.list.json",
             "description": "Retrieve a list of live shipping rate services. (Beta)",
@@ -5526,11 +5526,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "bf674fa47d26725fa187aa701e1a2f78",
+            "id": "393f1f8968a633b693c2180af818ce84",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/basket.info.json",
             "description": "Retrieve basket information.",
@@ -5578,11 +5578,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "d2084555d3490a6fd424eb89e66d4e2d",
+            "id": "be66597f7f988060f89e650719aae0d6",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/basket.live_shipping_service.create.json",
             "description": "Create live shipping rate service. (Beta)",
@@ -5623,11 +5623,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "99032e114b9b679a42adcee7215d2387",
+            "id": "80728443b1c22568ee03a96f9e3748a0",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/basket.live_shipping_service.delete.json",
             "description": "Delete live shipping rate service. (Beta)",
@@ -5654,11 +5654,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "a4784a4353685c26ec699081704151d8",
+            "id": "a1b7408fbbd440ffeb7f0d9e917e421f",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/customer.list.json",
             "description": "Get list of customers from store.",
@@ -5755,11 +5755,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "4a559a7537187ffb93e2c4b6dd224cce",
+            "id": "44ec6eb6dc8552cb415a294f5568d4c6",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/customer.count.json",
             "description": "Get number of customers from store.",
@@ -5828,11 +5828,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "cb7261c5ba7c665aa87e07af83270186",
+            "id": "fa9178834f21aac4c14d285db48488a6",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/customer.info.json",
             "description": "Get customers' details from store.",
@@ -5880,11 +5880,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "856ca90e517f84cba152e65173e46e4f",
+            "id": "037d83e98c05090cce29cd8fcf2dc78f",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/customer.find.json",
             "description": "Find customers in store.",
@@ -5932,11 +5932,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "f64574628f3645247fd1a7fc979b977a",
+            "id": "6cdba50116d8fd967684e2b424d3c9bb",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/customer.add.json",
             "description": "Add customer into store.",
@@ -5955,11 +5955,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "d38e0ae2218e21af5ebdf244e8e112e6",
+            "id": "c5820494800fbb561fc4e0478644ae9c",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.list.json",
             "description": "Get attributes list",
@@ -6056,11 +6056,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "ae66bed411ae33df94bba20cc60ea258",
+            "id": "f58ff92f0fca6387179e11e341e8d2b8",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.info.json",
             "description": "Get attribute info",
@@ -6115,11 +6115,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "6c6a616176f482c4b44bca82fddb7967",
+            "id": "90061497973dc2722c3c94a5130fd289",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.count.json",
             "description": "Get attributes count",
@@ -6174,11 +6174,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "0a59b1eb6264364734a0232d9c82caba",
+            "id": "d587c9df6b7d60ae56b934bf6a312241",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.type.list.json",
             "description": "Get list of supported attributes types",
@@ -6197,11 +6197,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "440ebaf4c55d7327b8da1be403a7cad6",
+            "id": "7da4c052ea83feeb208a3b9e38bf2699",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.delete.json",
             "description": "Delete attribute from store",
@@ -6235,11 +6235,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "801fc2ff62bbaf1f8a5580bbda492549",
+            "id": "d8c4a4475c7cc123c2edfe9b6e2bc00a",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.add.json",
             "description": "Add new attribute",
@@ -6392,11 +6392,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "abc7e06602c5aed3613682e6a7dbdc27",
+            "id": "6517be97fb6fa466d714e290d00ca095",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.assign.group.json",
             "description": "Assign attribute to the group",
@@ -6437,11 +6437,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "7eda2a6d3f5ffa4cc3dbba7f39f4b08c",
+            "id": "278dfebeb9cbbbb583cba6e8b6fc2a92",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.assign.set.json",
             "description": "Assign attribute to the attribute set",
@@ -6482,11 +6482,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "7795d820dff4e68cc1aab31dbb3ae4a2",
+            "id": "dd6ecc7261ba80b525f326a98987366f",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.unassign.group.json",
             "description": "Unassign attribute from group",
@@ -6520,11 +6520,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "ec7a6c6921480d257afcdce8104627a6",
+            "id": "b6361f61071fa777c6f90b0f2d4c9102",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.unassign.set.json",
             "description": "Unassign attribute from attribute set",
@@ -6558,11 +6558,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "5f87c21080f5a737f9961bfd9e84b0d1",
+            "id": "1044ee02d33bdd927259977c0c6d50b5",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.group.list.json",
             "description": "Get attribute group list",
@@ -6617,11 +6617,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "49fe853dbe82559b5a987e6b65c8cb1c",
+            "id": "d667237365e27f156aadaead732ffe1a",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/attribute.attributeset.list.json",
             "description": "Get attribute_set list",
@@ -6669,11 +6669,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "86f459e964a172e1daea71034d529234",
+            "id": "34c3c997401ebb8b56c48bf930ba5238",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.attribute.list.json",
             "description": "Get list of attributes.",
@@ -6777,11 +6777,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "59cd4033b68fce8dfb1cfc48d4c7153d",
+            "id": "3735da2943b626fb4024a9fffaa10353",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.attribute.value.set.json",
             "description": "Set attribute value to product.",
@@ -6857,11 +6857,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "327ad3ec7c2fb433f7673a99765a2516",
+            "id": "1db1e5f2566cce220fd7f962f90be2cc",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.option.add.json",
             "description": "Add product option from store.",
@@ -6937,11 +6937,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "cb4d54e8f9ead562880789b1e1f5f1e5",
+            "id": "e340d1556d131e751279be86269ad631",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.option.list.json",
             "description": "Get list of options.",
@@ -7010,11 +7010,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "a920c9b4be19921ec6fa0f042afe4865",
+            "id": "f3517e75424eebb0ee047816dd5ff255",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.option.assign.json",
             "description": "Assign option from product.",
@@ -7048,11 +7048,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "55c8c1c4eee3c08d56a3c765a451841b",
+            "id": "cc3f3abd214acccb2be51ef80719f0ed",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.option.value.add.json",
             "description": "Add product option item from option.",
@@ -7093,11 +7093,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "f1a05717ba059fe4d43f6544617a5c9b",
+            "id": "15349672c50c6191f5181277a97fba8f",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.option.value.assign.json",
             "description": "Assign product option item from product.",
@@ -7131,11 +7131,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "ba808ec9d67c659defeb43be822a5f5e",
+            "id": "8d90b50c13a2a2edc8152e15428eaeb2",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.option.value.update.json",
             "description": "Update product option item from option.",
@@ -7176,11 +7176,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "3f5b5d350b8151aacf750bec02baac6c",
+            "id": "ae979f3fd6d144d613bec24c8e81e920",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.review.list.json",
             "description": "Get reviews of a specific product.",
@@ -7256,11 +7256,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "2316dd8c07b0df733cc33dae99ab44c2",
+            "id": "4ecf1f32a540cc1ec7ce9e9386c023dc",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.variant.add.json",
             "description": "Add variant to product.",
@@ -7448,11 +7448,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "e8e8615088136933dc9e821353dc7f9d",
+            "id": "a33740ad41e3950f02e864055665afd7",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.child_item.info.json",
             "description": "Get child for specific product.",
@@ -7507,11 +7507,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "96f2cfb6827b84e9dc9eaf4c67a99206",
+            "id": "8bc6222befccb75b27ffba2e33e1e691",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.child_item.list.json",
             "description": "Get child items list of specific product(s).",
@@ -7643,11 +7643,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "d61c4319c3cbb1ebd7499c5b91063aa7",
+            "id": "83ee6e6cd02f3aa22f457479667a0bf0",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.child_item.find.json",
             "description": "Search product child item (bundled item or configurable product variant) in store catalog.",
@@ -7695,11 +7695,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "5e777064defbd2801a9ecc5a1041e798",
+            "id": "f58d7ba1210ffe02fd9c1073d571a2f0",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.variant.list.json",
             "description": "Get list variants.",
@@ -7796,11 +7796,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "439ae784389d6d02a4bb2130d3e3ac82",
+            "id": "a81752ec7e031a39b7acae9cf02dc1c8",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.variant.info.json",
             "description": "Get variant info.",
@@ -7848,11 +7848,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "6cc096bab4be0579d6d4cfb46b1b3e34",
+            "id": "17dc177c692a66f505c43880386581d1",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.variant.count.json",
             "description": "Get count variants.",
@@ -7921,11 +7921,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "f12f6b64b93841e158ede28b1aab61e7",
+            "id": "01dbf3059213d9cd3dac1fcf7ee47ac1",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.variant.update.json",
             "description": "Update variant.",
@@ -8113,11 +8113,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "e76ba342d7dbc28388f0fd2e1cdad9c3",
+            "id": "4fdb3d384e0fe65b7198111d1c42515f",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.variant.delete.json",
             "description": "Delete variant.",
@@ -8151,11 +8151,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "d518c18bba4e61f81b6b19a86cb027c5",
+            "id": "f9a13533828e7a8d82c2189c077c1531",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.variant.price.add.json",
             "description": "Add some prices to the product variant.",
@@ -8174,11 +8174,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "7de99e75bdcda1b16c0ca4326526e4cd",
+            "id": "6cd32ea892dac50d8e2c6980fdb393f9",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.variant.price.update.json",
             "description": "Update some prices of the product variant.",
@@ -8197,11 +8197,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "66bdbb93e8b4d01e709c1f43209927c2",
+            "id": "d97f71e10c42ec221b3defdae80cccf6",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.variant.price.delete.json",
             "description": "Delete some prices of the product variant.",
@@ -8235,11 +8235,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "d104f54eaf73b4581d50b3e52485a568",
+            "id": "70c82fcb3abd103f7a02a3ed965db880",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.tax.add.json",
             "description": "Add tax class and tax rate to store and assign to product.",
@@ -8258,11 +8258,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "d89717d833c8d8b6c1f43dc570a499db",
+            "id": "bb648d4bdbc70bb9a32324df1651fc93",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.manufacturer.add.json",
             "description": "Add manufacturer to store and assign to product",
@@ -8296,11 +8296,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "8dd1577a3e397c89a527ffba3fe05522",
+            "id": "e7afaf1285cee78cd72691dccc5745e1",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.brand.list.json",
             "description": "Get list of brands from your store.",
@@ -8397,11 +8397,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "6040b73a9f374f2c902170a6a17d652d",
+            "id": "2ed8f8d712219de325338cd42f312867",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.currency.add.json",
             "description": "Add currency and\/or set default in store",
@@ -8470,11 +8470,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "f7301f45ab6b8d5a2c7ee861d61a2499",
+            "id": "af01d2f5441d7c9e305873e15adcb4c3",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.currency.list.json",
             "description": "Get list of currencies",
@@ -8536,11 +8536,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "141f26b86f50825798fe07afd484ef85",
+            "id": "d50a76ef7965a9184f328a6f604b6950",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/product.store.assign.json",
             "description": "Assign product to store",
@@ -8574,11 +8574,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "bb019afd19a1bd9fb7eaa8a65c4ad27e",
+            "id": "d3b76d2e7721039a7452558545840bcf",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/tax.class.info.json",
             "description": "Get info about tax",
@@ -8619,11 +8619,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "bced37308726f4cfbcca5397d0832d96",
+            "id": "246d7ad074584f96b314f0e4d9c3d218",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/basket.item.add.json",
             "description": "Add item to basket",
@@ -8678,11 +8678,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "d370c0ff5e41e081790d468aa0e83bbf",
+            "id": "a8fc080097c1591974857b0c32ce04a5",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/subscriber.list.json",
             "description": "Get subscribers list",
@@ -8751,11 +8751,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         },
         {
-            "id": "b73f0cf4c26344bc206339669fe9bf44",
+            "id": "26854f191402fdd21a48bc0666702d6d",
             "name": "",
             "url": "http:\/\/api.api2cart.com\/v1.1\/bridge.download.json",
             "description": "Download bridge for store",
@@ -8774,7 +8774,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "75399631a0558eec7b934aca3758cd60",
+            "collectionId": "f00cfbcd28d6344b97881c978896f579",
             "rawModeData": ""
         }
     ]
