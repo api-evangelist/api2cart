@@ -12,8 +12,8 @@
         "shopping cart",
         "target"
     ],
-    "created": "2019-12-20",
-    "modified": "2019-12-20",
+    "created": "2019-12-25",
+    "modified": "2019-12-25",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api2cart\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -27,29 +27,19 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api2cart\/master\/api2cart-openapi.json"
-                },
-                {
-                    "type": "x-openapi",
-                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/api2cart.json"
-                }
-            ]
-        },
-        {
-            "name": "Swagger API2Cart",
-            "description": null,
-            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1639-api2cart.jpg",
-            "humanURL": "https:\/\/www.api2cart.com\/",
-            "baseURL": "",
-            "tags": [],
-            "properties": [
-                {
-                    "type": "x-openapi",
                     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api2cart\/master\/swagger-api2cart-openapi.json"
                 },
                 {
                     "type": "x-openapi",
                     "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/swagger-api2cart.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api2cart\/master\/swagger-api2cart-postman-collection.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api2cart\/master\/swagger-api2cart-postman-collection.json"
                 }
             ]
         }
