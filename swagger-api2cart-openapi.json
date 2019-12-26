@@ -2,8 +2,8 @@
     "openapi": "3.0.0",
     "info": {
         "version": "1.0.0",
-        "title": "Swagger API2Cart",
-        "description": "API2Cart",
+        "title": "API2Cart",
+        "description": "A unified integration point to interact with 30+ shopping carts, that extends the pool of potential clients with 1 million of e-store owners.\t\t\t\t\t",
         "termsOfService": "https:\/\/api2cart.com\/terms-service"
     },
     "servers": [
@@ -13,7 +13,7 @@
     "paths": {
         "\/webhook.create.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Webhook Create",
                 "description": "Create webhook on the store and subscribe to it.",
                 "operationId": "WebhookCreate",
                 "deprecated": 0,
@@ -63,7 +63,7 @@
         },
         "\/webhook.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Webhook List",
                 "description": "List registered webhook on the store.",
                 "operationId": "WebhookList",
                 "deprecated": 0,
@@ -113,7 +113,7 @@
         },
         "\/webhook.count.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Webhook Count",
                 "description": "Count registered webhooks on the store.",
                 "operationId": "WebhookCount",
                 "deprecated": 0,
@@ -143,7 +143,7 @@
         },
         "\/webhook.events.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Webhook Events",
                 "description": "List all Webhooks that are available on this store.",
                 "operationId": "WebhookEvents",
                 "deprecated": 0,
@@ -157,7 +157,7 @@
         },
         "\/webhook.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Webhook Delete",
                 "description": "Delete registered webhook on the store.",
                 "operationId": "WebhookDelete",
                 "deprecated": 0,
@@ -177,7 +177,7 @@
         },
         "\/webhook.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Webhook Update",
                 "description": "Update Webhooks parameters.",
                 "operationId": "WebhookUpdate",
                 "deprecated": 0,
@@ -217,7 +217,7 @@
         },
         "\/cart.create.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Cart Create",
                 "description": "Add store to the account",
                 "operationId": "CartCreate",
                 "deprecated": 0,
@@ -527,7 +527,7 @@
         },
         "\/cart.validate.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Validate",
                 "description": "Check store availability, bridge connection for the downloadable carts, identify DB prefix, validate API accesses for API carts.",
                 "operationId": "CartValidate",
                 "deprecated": 0,
@@ -547,7 +547,7 @@
         },
         "\/cart.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart List",
                 "description": "Get list of supported carts",
                 "operationId": "CartList",
                 "deprecated": 0,
@@ -561,7 +561,7 @@
         },
         "\/cart.bridge.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Bridge",
                 "description": "Get bridge key and store key",
                 "operationId": "CartBridge",
                 "deprecated": 0,
@@ -575,7 +575,7 @@
         },
         "\/cart.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Cart Delete",
                 "description": "Remove store from API2Cart",
                 "operationId": "CartDelete",
                 "deprecated": 0,
@@ -589,7 +589,7 @@
         },
         "\/cart.disconnect.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Disconnect",
                 "description": "Disconnect with the store and clear store session data.",
                 "operationId": "CartDisconnect",
                 "deprecated": 0,
@@ -609,7 +609,7 @@
         },
         "\/cart.methods.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Methods",
                 "description": "Get list of cart methods",
                 "operationId": "CartMethods",
                 "deprecated": 0,
@@ -623,7 +623,7 @@
         },
         "\/cart.config.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Config",
                 "description": "Get list of cart configs",
                 "operationId": "CartConfig",
                 "deprecated": 0,
@@ -648,7 +648,7 @@
         },
         "\/cart.config.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Cart Config Update",
                 "description": "Use this API method to update custom data in client database.",
                 "operationId": "CartConfigUpdate",
                 "deprecated": 0,
@@ -662,7 +662,7 @@
         },
         "\/cart.coupon.count.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Coupon Count",
                 "description": "Get cart coupons count.",
                 "operationId": "CartCouponCount",
                 "deprecated": 0,
@@ -707,7 +707,7 @@
         },
         "\/cart.coupon.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Coupon List",
                 "description": "Get cart coupon discounts.",
                 "operationId": "CartCouponList",
                 "deprecated": 0,
@@ -782,7 +782,7 @@
         },
         "\/cart.giftcard.count.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Giftcard Count",
                 "description": "Get gift cards count.",
                 "operationId": "CartGiftcardCount",
                 "deprecated": 0,
@@ -802,7 +802,7 @@
         },
         "\/cart.giftcard.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Giftcard List",
                 "description": "Get gift cards list.",
                 "operationId": "CartGiftcardList",
                 "deprecated": 0,
@@ -842,7 +842,7 @@
         },
         "\/cart.giftcard.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Cart Giftcard Add",
                 "description": "Create new gift card",
                 "operationId": "CartGiftcardAdd",
                 "deprecated": 0,
@@ -872,7 +872,7 @@
         },
         "\/cart.coupon.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Cart Coupon Add",
                 "description": "Create new coupon",
                 "operationId": "CartCouponAdd",
                 "deprecated": 0,
@@ -967,7 +967,7 @@
         },
         "\/cart.coupon.condition.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Cart Coupon Condition Add",
                 "description": "Create new coupon condition",
                 "operationId": "CartCouponConditionAdd",
                 "deprecated": 0,
@@ -1017,7 +1017,7 @@
         },
         "\/cart.coupon.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Cart Coupon Delete",
                 "description": "Delete coupon",
                 "operationId": "CartCouponDelete",
                 "deprecated": 0,
@@ -1042,7 +1042,7 @@
         },
         "\/cart.script.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Script List",
                 "description": "Get scripts installed to the storefront",
                 "operationId": "CartScriptList",
                 "deprecated": 0,
@@ -1102,7 +1102,7 @@
         },
         "\/cart.script.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Cart Script Add",
                 "description": "Add new script to the storefront",
                 "operationId": "CartScriptAdd",
                 "deprecated": 0,
@@ -1147,7 +1147,7 @@
         },
         "\/cart.script.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Cart Script Delete",
                 "description": "Remove script from the storefront",
                 "operationId": "CartScriptDelete",
                 "deprecated": 0,
@@ -1167,7 +1167,7 @@
         },
         "\/cart.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Info",
                 "description": "Get cart information",
                 "operationId": "CartInfo",
                 "deprecated": 0,
@@ -1197,7 +1197,7 @@
         },
         "\/cart.clear_cache.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Cart Clear Cache",
                 "description": "Clear cache on store.",
                 "operationId": "CartClearCache",
                 "deprecated": 0,
@@ -1217,7 +1217,7 @@
         },
         "\/cart.plugin.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Plugin List",
                 "description": "Get list of installed plugins",
                 "operationId": "CartPluginList",
                 "deprecated": 0,
@@ -1252,7 +1252,7 @@
         },
         "\/cart.shipping_zones.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Cart Shipping Zones List",
                 "description": "Get list of shipping zones",
                 "operationId": "CartShippingZonesList",
                 "deprecated": 0,
@@ -1272,7 +1272,7 @@
         },
         "\/account.cart.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Account Cart List",
                 "description": "Get list of carts.",
                 "operationId": "AccountCartList",
                 "deprecated": 0,
@@ -1317,7 +1317,7 @@
         },
         "\/account.cart.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Account Cart Add",
                 "description": "Add store to the account",
                 "operationId": "AccountCartAdd",
                 "deprecated": 0,
@@ -1617,7 +1617,7 @@
         },
         "\/account.config.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Account Config Update",
                 "description": "Update configs in the API2Cart database.",
                 "operationId": "AccountConfigUpdate",
                 "deprecated": 0,
@@ -1872,7 +1872,7 @@
         },
         "\/account.failed_webhooks.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Account Failed Webhooks",
                 "description": "List webhooks that was not delivered to the callback.",
                 "operationId": "AccountFailedWebhooks",
                 "deprecated": 0,
@@ -1902,7 +1902,7 @@
         },
         "\/account.supported_platforms.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Account Supported Platforms",
                 "description": "Get list of supported platforms",
                 "operationId": "AccountSupportedPlatforms",
                 "deprecated": 0,
@@ -1916,7 +1916,7 @@
         },
         "\/bridge.download.file": {
             "get": {
-                "summary": "",
+                "summary": "Get Bridge Download File",
                 "description": "Download bridge for store",
                 "operationId": "BridgeDownload",
                 "deprecated": 0,
@@ -1936,7 +1936,7 @@
         },
         "\/bridge.update.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Bridge Update",
                 "description": "Update bridge in the store.",
                 "operationId": "BridgeUpdate",
                 "deprecated": 0,
@@ -1950,7 +1950,7 @@
         },
         "\/bridge.delete.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Bridge Delete",
                 "description": "Delete bridge from the store.",
                 "operationId": "BridgeDelete",
                 "deprecated": 0,
@@ -1964,7 +1964,7 @@
         },
         "\/product.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product List",
                 "description": "Get list of products from your store. Returns 10 products by default.",
                 "operationId": "ProductList",
                 "deprecated": 0,
@@ -2094,7 +2094,7 @@
         },
         "\/product.count.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Count",
                 "description": "Count products in store.",
                 "operationId": "ProductCount",
                 "deprecated": 0,
@@ -2169,7 +2169,7 @@
         },
         "\/product.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Info",
                 "description": "Get product info about product ID *** or specify other product ID.",
                 "operationId": "ProductInfo",
                 "deprecated": 0,
@@ -2229,7 +2229,7 @@
         },
         "\/product.find.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Find",
                 "description": "Search product in store catalog. \"Apple\" is specified here by default.",
                 "operationId": "ProductFind",
                 "deprecated": 0,
@@ -2264,7 +2264,7 @@
         },
         "\/product.fields.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Fields",
                 "description": "Retrieve all available fields for product item in store.",
                 "operationId": "ProductFields",
                 "deprecated": 0,
@@ -2278,7 +2278,7 @@
         },
         "\/product.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Add",
                 "description": "Add new product to store.",
                 "operationId": "ProductAdd",
                 "deprecated": 0,
@@ -2292,7 +2292,7 @@
         },
         "\/product.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Product Update",
                 "description": "Update price and quantity for a specific product",
                 "operationId": "ProductUpdate",
                 "deprecated": 0,
@@ -2467,7 +2467,7 @@
         },
         "\/product.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Product Delete",
                 "description": "Product delete",
                 "operationId": "ProductDelete",
                 "deprecated": 0,
@@ -2487,7 +2487,7 @@
         },
         "\/product.price.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Price Add",
                 "description": "Add some prices to the product.",
                 "operationId": "ProductPriceAdd",
                 "deprecated": 0,
@@ -2501,7 +2501,7 @@
         },
         "\/product.price.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Product Price Update",
                 "description": "Update some prices of the product.",
                 "operationId": "ProductPriceUpdate",
                 "deprecated": 0,
@@ -2515,7 +2515,7 @@
         },
         "\/product.price.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Product Price Delete",
                 "description": "Delete some prices of the product",
                 "operationId": "ProductPriceDelete",
                 "deprecated": 0,
@@ -2540,7 +2540,7 @@
         },
         "\/product.image.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Image Add",
                 "description": "Add image to product",
                 "operationId": "ProductImageAdd",
                 "deprecated": 0,
@@ -2610,7 +2610,7 @@
         },
         "\/product.image.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Product Image Update",
                 "description": "Update details of image",
                 "operationId": "ProductImageUpdate",
                 "deprecated": 0,
@@ -2665,7 +2665,7 @@
         },
         "\/product.image.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Product Image Delete",
                 "description": "Delete image",
                 "operationId": "ProductImageDelete",
                 "deprecated": 0,
@@ -2695,7 +2695,7 @@
         },
         "\/category.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Category List",
                 "description": "Get list of categories from store. Returns 4 categories by default.",
                 "operationId": "CategoryList",
                 "deprecated": 0,
@@ -2745,7 +2745,7 @@
         },
         "\/category.count.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Category Count",
                 "description": "Count categories in store.",
                 "operationId": "CategoryCount",
                 "deprecated": 0,
@@ -2775,7 +2775,7 @@
         },
         "\/category.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Category Info",
                 "description": "Get category info about category ID*** or specify other category ID.",
                 "operationId": "CategoryInfo",
                 "deprecated": 0,
@@ -2815,7 +2815,7 @@
         },
         "\/category.find.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Category Find",
                 "description": "Search category in store. \"Laptop\" is specified here by default.",
                 "operationId": "CategoryFind",
                 "deprecated": 0,
@@ -2845,7 +2845,7 @@
         },
         "\/category.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Category Add",
                 "description": "Add new category in store",
                 "operationId": "CategoryAdd",
                 "deprecated": 0,
@@ -2925,7 +2925,7 @@
         },
         "\/category.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Category Update",
                 "description": "Update category in store",
                 "operationId": "CategoryUpdate",
                 "deprecated": 0,
@@ -3000,7 +3000,7 @@
         },
         "\/category.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Category Delete",
                 "description": "Delete category in store",
                 "operationId": "CategoryDelete",
                 "deprecated": 0,
@@ -3020,7 +3020,7 @@
         },
         "\/category.assign.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Category Assign",
                 "description": "Assign category to product",
                 "operationId": "CategoryAssign",
                 "deprecated": 0,
@@ -3045,7 +3045,7 @@
         },
         "\/category.unassign.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Category Unassign",
                 "description": "Unassign category to product",
                 "operationId": "CategoryUnassign",
                 "deprecated": 0,
@@ -3070,7 +3070,7 @@
         },
         "\/category.image.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Category Image Add",
                 "description": "Add image to category",
                 "operationId": "CategoryImageAdd",
                 "deprecated": 0,
@@ -3125,7 +3125,7 @@
         },
         "\/category.image.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Category Image Delete",
                 "description": "Delete image",
                 "operationId": "CategoryImageDelete",
                 "deprecated": 0,
@@ -3155,7 +3155,7 @@
         },
         "\/order.count.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Order Count",
                 "description": "Count orders in store",
                 "operationId": "OrderCount",
                 "deprecated": 0,
@@ -3235,7 +3235,7 @@
         },
         "\/order.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Order List",
                 "description": "Get list of orders from store. Returns 4 orders by default.",
                 "operationId": "OrderList",
                 "deprecated": 0,
@@ -3355,7 +3355,7 @@
         },
         "\/order.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Order Info",
                 "description": "Info about a specific order by ID",
                 "operationId": "OrderInfo",
                 "deprecated": 0,
@@ -3390,7 +3390,7 @@
         },
         "\/order.find.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Order Find",
                 "description": "Find orders",
                 "operationId": "OrderFind",
                 "deprecated": 0,
@@ -3465,7 +3465,7 @@
         },
         "\/order.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Order Add",
                 "description": "Add a new order to the cart.",
                 "operationId": "OrderAdd",
                 "deprecated": 0,
@@ -3479,7 +3479,7 @@
         },
         "\/order.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Order Update",
                 "description": "Update existing order.",
                 "operationId": "OrderUpdate",
                 "deprecated": 0,
@@ -3539,7 +3539,7 @@
         },
         "\/order.status.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Order Status List",
                 "description": "Retrieve list of statuses",
                 "operationId": "OrderStatusList",
                 "deprecated": 0,
@@ -3553,7 +3553,7 @@
         },
         "\/order.financial_status.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Order Financial Status List",
                 "description": "Retrieve list of financial statuses",
                 "operationId": "OrderFinancialStatusList",
                 "deprecated": 0,
@@ -3567,7 +3567,7 @@
         },
         "\/order.abandoned.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Order Abandoned List",
                 "description": "Get list of orders that were left by customers before completing the order.",
                 "operationId": "OrderAbandonedList",
                 "deprecated": 0,
@@ -3642,7 +3642,7 @@
         },
         "\/order.shipment.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Order Shipment List",
                 "description": "Get list of shipments by orders.",
                 "operationId": "OrderShipmentList",
                 "deprecated": 0,
@@ -3697,7 +3697,7 @@
         },
         "\/order.shipment.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Order Shipment Add",
                 "description": "Add a shipment to the order.",
                 "operationId": "OrderShipmentAdd",
                 "deprecated": 0,
@@ -3711,7 +3711,7 @@
         },
         "\/order.shipment.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Order Shipment Update",
                 "description": "Update order's shipment information.",
                 "operationId": "OrderShipmentUpdate",
                 "deprecated": 0,
@@ -3725,7 +3725,7 @@
         },
         "\/order.shipment.tracking.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Order Shipment Tracking Add",
                 "description": "Add order shipment's tracking info.",
                 "operationId": "OrderShipmentTrackingAdd",
                 "deprecated": 0,
@@ -3739,7 +3739,7 @@
         },
         "\/order.refund.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Order Refund Add",
                 "description": "Add a refund to the order.",
                 "operationId": "OrderRefundAdd",
                 "deprecated": 0,
@@ -3753,7 +3753,7 @@
         },
         "\/basket.live_shipping_service.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Basket Live Shipping Service List",
                 "description": "Retrieve a list of live shipping rate services. (Beta)",
                 "operationId": "BasketLiveShippingServiceList",
                 "deprecated": 0,
@@ -3783,7 +3783,7 @@
         },
         "\/basket.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Basket Info",
                 "description": "Retrieve basket information.",
                 "operationId": "BasketInfo",
                 "deprecated": 0,
@@ -3818,7 +3818,7 @@
         },
         "\/basket.live_shipping_service.create.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Basket Live Shipping Service Create",
                 "description": "Create live shipping rate service. (Beta)",
                 "operationId": "BasketLiveShippingServiceCreate",
                 "deprecated": 0,
@@ -3848,7 +3848,7 @@
         },
         "\/basket.live_shipping_service.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Basket Live Shipping Service Delete",
                 "description": "Delete live shipping rate service. (Beta)",
                 "operationId": "BasketLiveShippingServiceDelete",
                 "deprecated": 0,
@@ -3868,7 +3868,7 @@
         },
         "\/customer.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Customer List",
                 "description": "Get list of customers from store.",
                 "operationId": "CustomerList",
                 "deprecated": 0,
@@ -3938,7 +3938,7 @@
         },
         "\/customer.count.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Customer Count",
                 "description": "Get number of customers from store.",
                 "operationId": "CustomerCount",
                 "deprecated": 0,
@@ -3988,7 +3988,7 @@
         },
         "\/customer.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Customer Info",
                 "description": "Get customers' details from store.",
                 "operationId": "CustomerInfo",
                 "deprecated": 0,
@@ -4023,7 +4023,7 @@
         },
         "\/customer.find.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Customer Find",
                 "description": "Find customers in store.",
                 "operationId": "CustomerFind",
                 "deprecated": 0,
@@ -4058,7 +4058,7 @@
         },
         "\/customer.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Customer Add",
                 "description": "Add customer into store.",
                 "operationId": "CustomerAdd",
                 "deprecated": 0,
@@ -4072,7 +4072,7 @@
         },
         "\/attribute.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Attribute List",
                 "description": "Get attributes list",
                 "operationId": "AttributeList",
                 "deprecated": 0,
@@ -4142,7 +4142,7 @@
         },
         "\/attribute.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Attribute Info",
                 "description": "Get attribute info",
                 "operationId": "AttributeInfo",
                 "deprecated": 0,
@@ -4182,7 +4182,7 @@
         },
         "\/attribute.count.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Attribute Count",
                 "description": "Get attributes count",
                 "operationId": "AttributeCount",
                 "deprecated": 0,
@@ -4222,7 +4222,7 @@
         },
         "\/attribute.type.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Attribute Type List",
                 "description": "Get list of supported attributes types",
                 "operationId": "AttributeTypeList",
                 "deprecated": 0,
@@ -4236,7 +4236,7 @@
         },
         "\/attribute.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Attribute Delete",
                 "description": "Delete attribute from store",
                 "operationId": "AttributeDelete",
                 "deprecated": 0,
@@ -4261,7 +4261,7 @@
         },
         "\/attribute.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Attribute Add",
                 "description": "Add new attribute",
                 "operationId": "AttributeAdd",
                 "deprecated": 0,
@@ -4371,7 +4371,7 @@
         },
         "\/attribute.assign.group.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Attribute Assign Group",
                 "description": "Assign attribute to the group",
                 "operationId": "AttributeAssignGroup",
                 "deprecated": 0,
@@ -4401,7 +4401,7 @@
         },
         "\/attribute.assign.set.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Attribute Assign Set",
                 "description": "Assign attribute to the attribute set",
                 "operationId": "AttributeAssignSet",
                 "deprecated": 0,
@@ -4431,7 +4431,7 @@
         },
         "\/attribute.unassign.group.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Attribute Unassign Group",
                 "description": "Unassign attribute from group",
                 "operationId": "AttributeUnassignGroup",
                 "deprecated": 0,
@@ -4456,7 +4456,7 @@
         },
         "\/attribute.unassign.set.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Attribute Unassign Set",
                 "description": "Unassign attribute from attribute set",
                 "operationId": "AttributeUnassignSet",
                 "deprecated": 0,
@@ -4481,7 +4481,7 @@
         },
         "\/attribute.group.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Attribute Group List",
                 "description": "Get attribute group list",
                 "operationId": "AttributeGroupList",
                 "deprecated": 0,
@@ -4521,7 +4521,7 @@
         },
         "\/attribute.attributeset.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Attribute Attributeset List",
                 "description": "Get attribute_set list",
                 "operationId": "AttributeAttributesetList",
                 "deprecated": 0,
@@ -4556,7 +4556,7 @@
         },
         "\/product.attribute.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Attribute List",
                 "description": "Get list of attributes.",
                 "operationId": "ProductAttributeList",
                 "deprecated": 0,
@@ -4631,7 +4631,7 @@
         },
         "\/product.attribute.value.set.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Attribute Value Set",
                 "description": "Set attribute value to product.",
                 "operationId": "ProductAttributeValueSet",
                 "deprecated": 0,
@@ -4686,7 +4686,7 @@
         },
         "\/product.option.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Option Add",
                 "description": "Add product option from store.",
                 "operationId": "ProductOptionAdd",
                 "deprecated": 0,
@@ -4741,7 +4741,7 @@
         },
         "\/product.option.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Option List",
                 "description": "Get list of options.",
                 "operationId": "ProductOptionList",
                 "deprecated": 0,
@@ -4791,7 +4791,7 @@
         },
         "\/product.option.assign.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Option Assign",
                 "description": "Assign option from product.",
                 "operationId": "ProductOptionAssign",
                 "deprecated": 0,
@@ -4816,7 +4816,7 @@
         },
         "\/product.option.value.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Option Value Add",
                 "description": "Add product option item from option.",
                 "operationId": "ProductOptionValueAdd",
                 "deprecated": 0,
@@ -4846,7 +4846,7 @@
         },
         "\/product.option.value.assign.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Option Value Assign",
                 "description": "Assign product option item from product.",
                 "operationId": "ProductOptionValueAssign",
                 "deprecated": 0,
@@ -4871,7 +4871,7 @@
         },
         "\/product.option.value.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Product Option Value Update",
                 "description": "Update product option item from option.",
                 "operationId": "ProductOptionValueUpdate",
                 "deprecated": 0,
@@ -4901,7 +4901,7 @@
         },
         "\/product.review.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Review List",
                 "description": "Get reviews of a specific product.",
                 "operationId": "ProductReviewList",
                 "deprecated": 0,
@@ -4956,7 +4956,7 @@
         },
         "\/product.variant.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Variant Add",
                 "description": "Add variant to product.",
                 "operationId": "ProductVariantAdd",
                 "deprecated": 0,
@@ -5091,7 +5091,7 @@
         },
         "\/product.child_item.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Child Item Info",
                 "description": "Get child for specific product.",
                 "operationId": "ProductChildItemInfo",
                 "deprecated": 0,
@@ -5131,7 +5131,7 @@
         },
         "\/product.child_item.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Child Item List",
                 "description": "Get child items list of specific product(s).",
                 "operationId": "ProductChildItemList",
                 "deprecated": 0,
@@ -5226,7 +5226,7 @@
         },
         "\/product.child_item.find.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Child Item Find",
                 "description": "Search product child item (bundled item or configurable product variant) in store catalog.",
                 "operationId": "ProductChildItemFind",
                 "deprecated": 0,
@@ -5261,7 +5261,7 @@
         },
         "\/product.variant.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Variant List",
                 "description": "Get list variants.",
                 "operationId": "ProductVariantList",
                 "deprecated": 0,
@@ -5331,7 +5331,7 @@
         },
         "\/product.variant.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Variant Info",
                 "description": "Get variant info.",
                 "operationId": "ProductVariantInfo",
                 "deprecated": 0,
@@ -5366,7 +5366,7 @@
         },
         "\/product.variant.count.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Variant Count",
                 "description": "Get count variants.",
                 "operationId": "ProductVariantCount",
                 "deprecated": 0,
@@ -5416,7 +5416,7 @@
         },
         "\/product.variant.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Product Variant Update",
                 "description": "Update variant.",
                 "operationId": "ProductVariantUpdate",
                 "deprecated": 0,
@@ -5551,7 +5551,7 @@
         },
         "\/product.variant.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Product Variant Delete",
                 "description": "Delete variant.",
                 "operationId": "ProductVariantDelete",
                 "deprecated": 0,
@@ -5576,7 +5576,7 @@
         },
         "\/product.variant.price.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Variant Price Add",
                 "description": "Add some prices to the product variant.",
                 "operationId": "ProductVariantPriceAdd",
                 "deprecated": 0,
@@ -5590,7 +5590,7 @@
         },
         "\/product.variant.price.update.json": {
             "put": {
-                "summary": "",
+                "summary": "Put Product Variant Price Update",
                 "description": "Update some prices of the product variant.",
                 "operationId": "ProductVariantPriceUpdate",
                 "deprecated": 0,
@@ -5604,7 +5604,7 @@
         },
         "\/product.variant.price.delete.json": {
             "delete": {
-                "summary": "",
+                "summary": "Delete Product Variant Price Delete",
                 "description": "Delete some prices of the product variant.",
                 "operationId": "ProductVariantPriceDelete",
                 "deprecated": 0,
@@ -5629,7 +5629,7 @@
         },
         "\/product.tax.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Tax Add",
                 "description": "Add tax class and tax rate to store and assign to product.",
                 "operationId": "ProductTaxAdd",
                 "deprecated": 0,
@@ -5643,7 +5643,7 @@
         },
         "\/product.manufacturer.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Manufacturer Add",
                 "description": "Add manufacturer to store and assign to product",
                 "operationId": "ProductManufacturerAdd",
                 "deprecated": 0,
@@ -5668,7 +5668,7 @@
         },
         "\/product.brand.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Brand List",
                 "description": "Get list of brands from your store.",
                 "operationId": "ProductBrandList",
                 "deprecated": 0,
@@ -5738,7 +5738,7 @@
         },
         "\/product.currency.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Currency Add",
                 "description": "Add currency and\/or set default in store",
                 "operationId": "ProductCurrencyAdd",
                 "deprecated": 0,
@@ -5788,7 +5788,7 @@
         },
         "\/product.currency.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Product Currency List",
                 "description": "Get list of currencies",
                 "operationId": "ProductCurrencyList",
                 "deprecated": 0,
@@ -5833,7 +5833,7 @@
         },
         "\/product.store.assign.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Product Store Assign",
                 "description": "Assign product to store",
                 "operationId": "ProductStoreAssign",
                 "deprecated": 0,
@@ -5858,7 +5858,7 @@
         },
         "\/tax.class.info.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Tax Class Info",
                 "description": "Get info about tax",
                 "operationId": "TaxClassInfo",
                 "deprecated": 0,
@@ -5888,7 +5888,7 @@
         },
         "\/basket.item.add.json": {
             "post": {
-                "summary": "",
+                "summary": "Post Basket Item Add",
                 "description": "Add item to basket",
                 "operationId": "BasketItemAdd",
                 "deprecated": 0,
@@ -5928,7 +5928,7 @@
         },
         "\/subscriber.list.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Subscriber List",
                 "description": "Get subscribers list",
                 "operationId": "SubscriberList",
                 "deprecated": 0,
@@ -5978,7 +5978,7 @@
         },
         "\/bridge.download.json": {
             "get": {
-                "summary": "",
+                "summary": "Get Bridge Download",
                 "description": "Download bridge for store",
                 "operationId": "BridgeDownload",
                 "deprecated": 0,
